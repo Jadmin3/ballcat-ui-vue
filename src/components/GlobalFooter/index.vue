@@ -1,8 +1,8 @@
 <template>
   <div class="footer">
     <div class="links">
-      <a href="https://www.ball.cn/" target="_blank">BallCat 首页</a>
-      <a href="https://github.com/hccake/ballcat-ui-vue" target="_blank">
+      <a href="https://www.ball.cn/" target="_blank"> 首页</a>
+      <a href="https://github.com/Jadmin3" target="_blank">
         <a-icon type="github-fill" />
       </a>
       <a href="https://ant.design/">Ant Design</a>
@@ -11,7 +11,7 @@
     </div>
     <div class="copyright">
       Copyright
-      <a-icon type="copyright" /> 2021 <span>🐱 Ballcat 团队出品</span>
+      <a-icon type="copyright" /> 2021 <span>🐱 ant 团队出品</span>
     </div>
   </div>
 </template>
