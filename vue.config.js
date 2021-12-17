@@ -5,7 +5,8 @@ const projectConfig = require('./src/config/projectConfig')
 
 // 预览环境的服务端地址，没有启动后端时，可以通过此地址进行前端查看
 // const serverAddress = 'http://admin.ballcat.cn'
-const serverAddress = 'http://ballcat-admin:8080'
+// const serverAddress = 'http://127.0.0.1:8089'
+const serverAddress = 'http://cat.xxc520.cn:8089/'
 
 function resolve(dir) {
   return path.join(__dirname, dir)
