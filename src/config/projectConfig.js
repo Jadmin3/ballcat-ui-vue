@@ -5,7 +5,7 @@ module.exports = {
   projectDesc: 'Samart Cat 一个简单的启动脚手架',
   // Vue ls 配置
   storageOptions: {
-    namespace: 'ballcat/', // key prefix --
+    namespace: 'ballcat/', // key prefix --=
     name: 'ls', // name variable Vue.[ls] or this.[$ls],
     storage: 'local' // storage name session, local, memory
   },
