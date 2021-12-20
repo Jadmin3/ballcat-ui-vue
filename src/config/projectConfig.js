@@ -2,7 +2,7 @@ module.exports = {
   // 项目标题
   projectTitle: 'Samart Cat',
   // 项目描述
-  projectDesc: 'Samart Cat 一个简单的项目启动脚手架',
+  projectDesc: 'Samart Cat 一个简单的启动脚手架',
   // Vue ls 配置
   storageOptions: {
     namespace: 'ballcat/', // key prefix
