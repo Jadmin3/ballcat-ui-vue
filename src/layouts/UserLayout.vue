@@ -22,7 +22,7 @@
           <a href="_self">条款</a>
         </div>
         <div class="copyright">
-          Copyright &copy; 2021 samas🐱
+          Copyright &copy; 2021 Samas🐱
         </div>
       </div>
     </div>
